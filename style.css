@@ -1,0 +1,86 @@
+header
+{
+    width: 100%;
+    height: 200px;
+}
+h1
+{
+    font-size: 3rem;
+    text-align: center;
+}
+header p, header a
+{
+    text-align: center;
+    font-size: 2rem;
+    text-decoration: none;
+
+}
+header a
+{
+    background-color: yellow;
+    padding: 5px 50px;
+    font-weight: 700;
+}
+main
+{
+    width: 100%;
+    height: 800px;
+    border: 1px solid black;
+    background-color: grey;
+}
+figure
+{
+
+    width: 50%;
+    height: 400px;
+    background: red url(https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LeagueofLegends_RiotGames_S1_2560x1440-ee500721c06da3ec1e5535a88588c77f)no-repeat center/cover;
+    margin: auto;
+    border-left: 10px solid red;
+
+}
+figcaption
+{
+    color: red;
+    font-size: 2rem;
+
+}
+q
+{
+    display: block;
+    text-align: center;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+ul
+{
+    list-style: none;
+}
+ul p
+{
+    font-weight: 900;
+    display: inline;
+}
+li
+{
+    margin: 5px;
+    font-size: 1.5rem;
+}
+section
+{
+    background-color: rgb(172, 172, 172);
+    width: 60%;
+    margin: auto;
+    font-size: 2rem;
+}
+footer
+{
+    width: 100%;
+    height: 100px;
+    background-color: yellow;
+    text-align: center;
+}
+h3
+{
+    font-size: 3rem;
+}
